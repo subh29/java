@@ -5,7 +5,7 @@ public class HelloWorld {
 	   for(i=0;i<=n;i++)
 	   {
       // Prints "Hello, I am here in the terminal window.
-      System.out.println("Hello all, Welcome to Jenkins");
+      System.out.println("Hello all, Welcome to Jenkins.");
 	   }
    }
 }
